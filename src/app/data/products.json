@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "/products/oraimo.jpg",
+    "bought": "06/03/2025",
+    "Unusable": "",
+    "price": "1800",
+    "title": "Oraimo Airpod",
+    "description": "Jweal er kach theke kinechilam"
+  },
+  {
+    "id": 2,
+    "image": "/products/iron-jag.png",
+    "bought": "07/03/2025",
+    "Unusable": "25/12/2026",
+    "price": "800",
+    "title": "Iron Jag",
+    "description": "Why we bought this product?"
+  },
+  {
+    "id": 3,
+    "image": "https://webapi3.adata.com/storage/product/uv120_512gb_feature_01_1200x695_0711.jpg",
+    "bought": "07/03/2025",
+    "Unusable": "25/12/2026",
+    "price": "950",
+    "title": "Adata UV128 pendrive",
+    "description": "Why we bought this product?"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ytimg.com/vi/d6v4BvfmfTg/maxresdefault.jpg",
+    "bought": "01/03/2025",
+    "Unusable": "",
+    "price": "20,000",
+    "title": "Readmi note 13",
+    "description": "Amar ekta camerar proyojon chilo, video record korar jonno"
+  }
+]
